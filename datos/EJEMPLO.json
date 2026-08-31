@@ -1,0 +1,43 @@
+{
+  "_comentario": "Archivo de ejemplo. NO se publica: el sitio solo lee candidaturas.json. Sirve para ver cómo se escribe cada caso.",
+
+  "proceso": "Etapa Electoral Ordinaria 2026-2",
+  "actualizado": "2026-09-04T18:00:00-05:00",
+
+  "candidaturas": [
+    {
+      "consejo": "CEJ",
+      "denominacion": "Lista Ejemplo",
+      "modalidad": "lista",
+      "radicacion": "2026-09-01T14:32:00-05:00",
+      "integrantes": 12,
+      "estado": "en_verificacion"
+    },
+    {
+      "consejo": "CEM",
+      "denominacion": "Otra Lista",
+      "modalidad": "lista",
+      "radicacion": "2026-09-02T09:10:00-05:00",
+      "integrantes": 14,
+      "estado": "en_subsanacion",
+      "actuacion": "Requerimiento notificado el 14 de septiembre de 2026. Vence el 15 de septiembre a las 11:59 p. m."
+    },
+    {
+      "consejo": "CEP",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-09-03T16:45:00-05:00",
+      "estado": "admitida",
+      "nota": "Representante de séptimo semestre"
+    },
+    {
+      "consejo": "CECN",
+      "denominacion": "Lista Tercera",
+      "modalidad": "lista",
+      "radicacion": "2026-09-03T22:05:00-05:00",
+      "integrantes": 7,
+      "estado": "rechazada",
+      "actuacion": "Rechazada por no alcanzar el número mínimo de integrantes (artículo 52). Decisión motivada notificada el 18 de septiembre de 2026."
+    }
+  ]
+}

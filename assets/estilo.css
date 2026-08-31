@@ -1,0 +1,297 @@
+/* Registro público de candidaturas · CERE
+   Misma identidad de los documentos del CERE: rojo institucional y Helvetica. */
+
+:root {
+  --rojo: #8B1A1A;
+  --rojo-claro: #F5E9E9;
+  --tinta: #1A1A1A;
+  --gris: #5A5A5A;
+  --linea: #DDD7D2;
+  --papel: #FFFFFF;
+  --fondo: #F7F5F3;
+  --verde: #1F6B3B;
+  --ambar: #8A5A00;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  color: var(--tinta);
+  background: var(--fondo);
+  line-height: 1.5;
+}
+
+.contenedor {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* --- cabecera --- */
+
+.cabecera {
+  background: var(--rojo);
+  color: #FFFFFF;
+  padding: 20px 0;
+}
+
+.cabecera-int {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.marca {
+  height: 62px;
+  width: auto;
+  filter: brightness(0) invert(1);
+}
+
+.organo {
+  margin: 0;
+  font-weight: bold;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+}
+
+.universidad {
+  margin: 2px 0 0;
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+/* --- encabezado de la pagina --- */
+
+main { padding-bottom: 64px; }
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.15;
+  margin: 40px 0 6px;
+}
+
+.etapa {
+  margin: 0 0 22px;
+  color: var(--gris);
+  font-size: 0.95rem;
+}
+
+.actualizado {
+  margin: 0 0 24px;
+  padding: 12px 16px;
+  background: var(--papel);
+  border-left: 4px solid var(--rojo);
+  font-size: 0.95rem;
+}
+
+.actualizado .desfase { color: var(--gris); }
+
+.fundamento {
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  padding: 16px 20px;
+  margin-bottom: 32px;
+}
+
+.fundamento p { margin: 0; font-size: 0.92rem; color: #333; }
+
+/* --- filtros --- */
+
+.filtros {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 24px;
+  align-items: flex-end;
+  margin-bottom: 18px;
+}
+
+.filtros label { display: flex; flex-direction: column; gap: 5px; }
+
+.filtros span {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--gris);
+  font-weight: bold;
+}
+
+.filtros select {
+  font: inherit;
+  font-size: 0.95rem;
+  padding: 8px 10px;
+  border: 1px solid var(--linea);
+  background: var(--papel);
+  color: var(--tinta);
+  min-width: 210px;
+}
+
+.conteo {
+  margin: 0 0 2px auto;
+  font-size: 0.88rem;
+  color: var(--gris);
+}
+
+/* --- tabla --- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  font-size: 0.92rem;
+}
+
+caption { text-align: left; padding: 0 0 8px; color: var(--gris); font-size: 0.85rem; }
+
+th, td {
+  text-align: left;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--linea);
+  vertical-align: top;
+}
+
+thead th {
+  background: var(--rojo);
+  color: #FFFFFF;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  border-bottom: none;
+}
+
+tbody tr:last-child td { border-bottom: none; }
+
+thead th:nth-child(5) { text-align: right; }
+
+.val { min-width: 0; overflow-wrap: anywhere; }
+
+td.consejo { font-weight: bold; white-space: nowrap; }
+td.fecha { white-space: nowrap; }
+td.num { text-align: right; white-space: nowrap; }
+.programa { display: block; color: var(--gris); font-size: 0.85rem; margin-top: 2px; }
+.actuacion { display: block; color: var(--gris); font-size: 0.85rem; margin-top: 4px; }
+
+.estado { display: inline-flex; align-items: center; gap: 7px; white-space: nowrap; }
+
+.punto {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--gris);
+  flex: none;
+}
+
+.e-admitida .punto { background: var(--verde); }
+.e-admitida { color: var(--verde); font-weight: bold; }
+.e-rechazada .punto { background: var(--rojo); }
+.e-rechazada { color: var(--rojo); font-weight: bold; }
+.e-en_subsanacion .punto { background: var(--ambar); }
+.e-en_subsanacion { color: var(--ambar); font-weight: bold; }
+
+.vacio {
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  padding: 40px 24px;
+  text-align: center;
+  color: var(--gris);
+}
+
+.vacio strong { display: block; color: var(--tinta); margin-bottom: 6px; }
+
+/* --- bloques de texto --- */
+
+.bloque { margin-top: 44px; }
+
+.bloque h2 {
+  font-size: 1.15rem;
+  color: var(--rojo);
+  border-bottom: 2px solid var(--rojo);
+  padding-bottom: 7px;
+  margin: 0 0 14px;
+}
+
+.bloque p { font-size: 0.94rem; margin: 0 0 12px; }
+
+.estados { margin: 0; }
+
+.estados div {
+  display: flex;
+  gap: 14px;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--linea);
+  font-size: 0.92rem;
+}
+
+.estados dt { min-width: 190px; font-weight: bold; }
+.estados dd { margin: 0; color: #333; }
+.estados .norma { color: var(--gris); }
+
+.aviso {
+  background: var(--rojo-claro);
+  border: 1px solid var(--rojo);
+  padding: 14px 18px;
+  font-size: 0.92rem;
+}
+
+/* --- pie --- */
+
+.pie {
+  background: var(--rojo);
+  color: #FFFFFF;
+  padding: 28px 0;
+  font-size: 0.9rem;
+}
+
+.pie p { margin: 0 0 8px; }
+.pie a { color: #FFFFFF; }
+.pie .legal { margin-top: 16px; opacity: 0.82; font-size: 0.82rem; }
+
+a { color: var(--rojo); }
+
+/* --- telefono: la tabla se vuelve fichas --- */
+
+@media (max-width: 700px) {
+  h1 { font-size: 1.55rem; }
+  .conteo { margin-left: 0; }
+  .filtros select { min-width: 0; width: 100%; }
+  .filtros label { width: 100%; }
+
+  table, tbody, tr, td { display: block; width: 100%; }
+  thead { display: none; }
+
+  tbody tr {
+    border-bottom: 1px solid var(--linea);
+    padding: 6px 0;
+  }
+
+  tbody tr:last-child { border-bottom: none; }
+
+  td {
+    border: none;
+    padding: 5px 14px;
+    display: flex;
+    gap: 12px;
+    align-items: baseline;
+  }
+
+  td::before {
+    content: attr(data-col);
+    flex: none;
+    width: 96px;
+    font-size: 0.74rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--gris);
+    font-weight: bold;
+  }
+
+  td .val { flex: 1 1 auto; }
+  td.num, td.fecha { text-align: left; white-space: normal; }
+  .estado { white-space: normal; }
+  .estados div { flex-direction: column; gap: 3px; }
+  .estados dt { min-width: 0; }
+}
