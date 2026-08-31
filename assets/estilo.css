@@ -257,8 +257,11 @@ a { color: var(--rojo); }
 @media (max-width: 700px) {
   h1 { font-size: 1.55rem; }
   .conteo { margin-left: 0; }
-  .filtros select { min-width: 0; width: 100%; }
   .filtros label { width: 100%; }
+
+  /* 16px evita que Safari en iOS haga zoom al tocar el desplegable,
+     y el padding sube el área táctil por encima de 44 px. */
+  .filtros select { min-width: 0; width: 100%; font-size: 16px; padding: 12px 12px; }
 
   table, tbody, tr, td { display: block; width: 100%; }
   thead { display: none; }
