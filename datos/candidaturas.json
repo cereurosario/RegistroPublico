@@ -1,5 +1,38 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-09T16:56:00-05:00",
-  "candidaturas": []
+  "actualizado": "2026-09-11T09:31:00-05:00",
+  "candidaturas": [
+    {
+      "consejo": "CEEN",
+      "denominacion": "Lista Verde Eden",
+      "modalidad": "lista",
+      "radicacion": "2026-09-11T08:29:00-05:00",
+      "integrantes": 8,
+      "estado": "en_verificacion"
+    },
+    {
+      "consejo": "CEEN",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-09-11T08:00:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Representante de octavo semestre"
+    },
+    {
+      "consejo": "CEFE",
+      "denominacion": "Lista Verde",
+      "modalidad": "lista",
+      "radicacion": "2026-09-09T22:56:00-05:00",
+      "integrantes": 10,
+      "estado": "en_verificacion"
+    },
+    {
+      "consejo": "CEJ",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-09-10T01:34:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Representante de segundo semestre de Jurisprudencia"
+    }
+  ]
 }
