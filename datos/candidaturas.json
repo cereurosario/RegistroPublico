@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-11T09:31:00-05:00",
+  "actualizado": "2026-09-11T16:10:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -27,12 +27,37 @@
       "estado": "en_verificacion"
     },
     {
+      "consejo": "CEIB",
+      "denominacion": "Lista Azul",
+      "modalidad": "lista",
+      "radicacion": "2026-09-11T11:03:00-05:00",
+      "integrantes": 8,
+      "estado": "en_verificacion"
+    },
+    {
       "consejo": "CEJ",
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-09-10T01:34:00-05:00",
       "estado": "en_verificacion",
-      "nota": "Representante de segundo semestre de Jurisprudencia"
+      "nota": "Representante de segundo semestre de Jurisprudencia",
+      "actuacion": "Renuncia escrita presentada el 11 de septiembre de 2026. Surte efectos con su aceptación formal por el CERE (artículo 54)."
+    },
+    {
+      "consejo": "CEJ",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-09-11T13:42:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Representante de tercer semestre de Jurisprudencia"
+    },
+    {
+      "consejo": "CEJ",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-09-11T14:43:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Representante de quinto semestre de Criminología e Investigación Criminal"
     }
   ]
 }
