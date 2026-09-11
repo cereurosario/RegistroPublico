@@ -57,8 +57,8 @@
     },
     retirada: {
       etiqueta: 'Retirada',
-      norma: 'Artículos 56 y 57',
-      glosa: 'La candidatura o la lista se retiró del proceso.'
+      norma: 'Artículos 54, 56 y 57',
+      glosa: 'La candidatura o la lista se retiró del proceso, o su renuncia fue aceptada por el CERE.'
     }
   };
 
