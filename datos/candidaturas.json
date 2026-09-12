@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-11T22:40:00-05:00",
+  "actualizado": "2026-09-11T22:45:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -39,9 +39,9 @@
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-09-10T01:34:00-05:00",
-      "estado": "en_verificacion",
+      "estado": "retirada",
       "nota": "Representante de segundo semestre de Jurisprudencia",
-      "actuacion": "Renuncia escrita presentada el 11 de septiembre de 2026 y aclarada por el candidato ese mismo día. Surte efectos con su aceptación formal por el CERE (artículo 54)."
+      "actuacion": "Renuncia presentada y aclarada el 11 de septiembre de 2026, y aceptada por el CERE ese mismo día (artículo 54). La candidatura queda retirada del proceso."
     },
     {
       "consejo": "CEJ",
