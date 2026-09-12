@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-11T16:42:00-05:00",
+  "actualizado": "2026-09-11T19:15:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -58,6 +58,13 @@
       "radicacion": "2026-09-11T14:43:00-05:00",
       "estado": "en_verificacion",
       "nota": "Representante de quinto semestre de Criminología e Investigación Criminal"
+    },
+    {
+      "consejo": "CER",
+      "denominacion": "Lista Azul Rehabilitación",
+      "modalidad": "lista",
+      "radicacion": "2026-09-11T18:57:00-05:00",
+      "estado": "en_verificacion"
     }
   ]
 }
