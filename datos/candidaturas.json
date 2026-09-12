@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-11T22:50:00-05:00",
+  "actualizado": "2026-09-11T22:55:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -87,7 +87,8 @@
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T22:41:00-05:00",
-      "estado": "en_verificacion"
+      "estado": "en_verificacion",
+      "actuacion": "El correo de radicación no precisó la modalidad del artículo 49. El CERE la registró como independiente y se lo comunicó al aspirante el 11 de septiembre de 2026."
     },
     {
       "consejo": "CER",
