@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-12T12:45:00-05:00",
+  "actualizado": "2026-09-14T12:55:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -72,6 +72,7 @@
       "denominacion": "Lista Azul",
       "modalidad": "lista",
       "radicacion": "2026-09-11T23:40:00-05:00",
+      "integrantes": 16,
       "estado": "en_verificacion"
     },
     {
@@ -87,6 +88,7 @@
       "denominacion": "Lista Gris Azulado",
       "modalidad": "lista",
       "radicacion": "2026-09-11T22:22:00-05:00",
+      "integrantes": 24,
       "estado": "en_verificacion"
     },
     {
@@ -102,6 +104,7 @@
       "denominacion": "Lista Azul Rehabilitación",
       "modalidad": "lista",
       "radicacion": "2026-09-11T18:57:00-05:00",
+      "integrantes": 10,
       "estado": "en_verificacion"
     },
     {
