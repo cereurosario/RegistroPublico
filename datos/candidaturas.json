@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-14T12:55:00-05:00",
+  "actualizado": "2026-09-18T20:45:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -8,15 +8,18 @@
       "modalidad": "lista",
       "radicacion": "2026-09-11T08:29:00-05:00",
       "integrantes": 8,
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "nota": "Integrantes: Valentina Monroy Roldán (Presidente), Laura Alejandra Astudillo Camacho (Vicepresidente), Luisa Maria Santodomingo Carrillo, Ana Sofia Cristiano Muñoz, Angie Yuliana Medina Gomez, Valentina Torres Gomez, Marisol Lemos Marsiglia y Juan David Palomares Bru.",
+      "actuacion": "Admitida con sus ocho integrantes mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CEEN",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Samuel Esteban Gaona Canaria",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T08:00:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Representante de octavo semestre"
+      "estado": "admitida",
+      "nota": "Representante de octavo semestre",
+      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CEFE",
@@ -24,15 +27,19 @@
       "modalidad": "lista",
       "radicacion": "2026-09-09T22:56:00-05:00",
       "integrantes": 10,
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "nota": "Integrantes: Daniel Varón Ávila (Presidente), Sara Juliana Florián Roa (Vicepresidente), Daniela Becerra Pineda, Carlos José Meneses Torres, Jerónimo Guevara Carvajal, Celeste Pérez Montes, Paula Celeste Vargas Pérez, Anamaría Puentes Veloza, Sara Manuela Cardona Medina y Sara Torres Bohórquez.",
+      "actuacion": "Admitida mediante decisión motivada notificada el 17 de septiembre de 2026 (artículo 97). Tres integrantes quedan admitidos condicionalmente hasta la entrega de su certificado de buena conducta, a más tardar el 9 de octubre de 2026."
     },
     {
       "consejo": "CEIB",
       "denominacion": "Lista Azul",
       "modalidad": "lista",
-      "radicacion": "2026-09-11T11:03:00-05:00",
+      "radicacion": "2026-09-11T20:26:00-05:00",
       "integrantes": 8,
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "nota": "Integrantes admitidos: Andrés Felipe Martínez González (Presidente), Juan David García Florez (Vicepresidente), Paula Valentina Mariño Villanueva, Santiago Molina López, Mariana Martínez Ortiz, Mayra Alejandra Campos Moreno y Valentina Roldan Silva.",
+      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97) con siete de sus ocho integrantes. La octava candidatura queda condicionada a la entrega de su registro académico, a más tardar el 19 de septiembre de 2026 a las 11:59 p. m. Radicación corregida: el envío de las 8:26 p. m. reemplazó al de las 11:03 a. m. del mismo día."
     },
     {
       "consejo": "CEJ",
@@ -45,27 +52,30 @@
     },
     {
       "consejo": "CEJ",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "José David Rivero Arregoces",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T13:42:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Representante de tercer semestre de Jurisprudencia"
+      "estado": "admitida",
+      "nota": "Representante de tercer semestre de Jurisprudencia",
+      "actuacion": "Aceptada provisionalmente el 18 de septiembre de 2026 (artículo 97), sujeta a la entrega del certificado de buena conducta a más tardar el 25 de septiembre de 2026."
     },
     {
       "consejo": "CEJ",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Luis Enrique Solano Molano",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T14:43:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Representante de quinto semestre de Criminología e Investigación Criminal"
+      "estado": "admitida",
+      "nota": "Representante de quinto semestre de Criminología e Investigación Criminal",
+      "actuacion": "Aceptada mediante decisión notificada el 18 de septiembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CEJ",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Giselle Mariana Céspedes Pulido",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T20:22:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Representante de segundo semestre de Jurisprudencia"
+      "estado": "admitida",
+      "nota": "Representante de segundo semestre de Jurisprudencia",
+      "actuacion": "Aceptada provisionalmente el 18 de septiembre de 2026 (artículo 97), sujeta a la entrega del certificado de buena conducta a más tardar el 25 de septiembre de 2026."
     },
     {
       "consejo": "CEJ",
@@ -73,7 +83,9 @@
       "modalidad": "lista",
       "radicacion": "2026-09-11T23:40:00-05:00",
       "integrantes": 16,
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "nota": "Integrantes: Catalina Rendón Torres (Presidente), Juan Felipe Forero Cuellar (Vicepresidente), Miguel Ángel Moreno Becerra, Rita Angarita Gómez, Santiago Homez Delgado, Sofía Córdoba Herrera, Luciana Bustos Domínguez, Sergio Luis Salleg Moscote, Sergio Hernán Betancourt Villamil, Samuel David Ochoa Cardona, Juan Diego Becerra Giraldo, Luis Guillermo Sánchez Garzón, Marianna Macchello Cereghino, Gabriela Tibaquira Martínez, Luisa Fernanda Chaves Rodríguez y María Camila Lema Sanabria.",
+      "actuacion": "Requerimiento de subsanación notificado el 16 de septiembre de 2026 y atendido el 17 de septiembre. Aceptada provisionalmente el 18 de septiembre de 2026 (artículo 97), sujeta a la entrega de dos certificados de buena conducta a más tardar el 25 de septiembre de 2026."
     },
     {
       "consejo": "CEM",
@@ -105,7 +117,9 @@
       "modalidad": "lista",
       "radicacion": "2026-09-11T18:57:00-05:00",
       "integrantes": 10,
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "nota": "Integrantes admitidos: Tatiana Andrea Camargo Rodríguez (Presidente), Santiago Carrillo Martínez (Vicepresidente), Juan Daniel Torres Torres, Sharith Valentina Abaunza Quiñones, Juana Daniela Sandoval Camargo, Juan Esteban Rodríguez Reyes, Luz Daniela Reyes Suarez, Angie Marcela Santacruz Narvaez y Nicole Sofia Castellanos Sotelo.",
+      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97) con nueve de sus diez integrantes. La décima candidatura queda condicionada a la entrega de su sábana de notas actualizada, a más tardar el 19 de septiembre de 2026 a las 11:59 p. m."
     },
     {
       "consejo": "CERI",
@@ -113,7 +127,8 @@
       "modalidad": "lista",
       "radicacion": "2026-09-11T20:24:00-05:00",
       "integrantes": 10,
-      "estado": "en_verificacion"
+      "estado": "en_verificacion",
+      "actuacion": "Requerimiento de subsanación notificado el 16 de septiembre de 2026 y atendido el 17 de septiembre. En verificación."
     }
   ]
 }
