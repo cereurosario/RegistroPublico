@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-18T20:55:00-05:00",
+  "actualizado": "2026-09-19T21:16:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -74,7 +74,7 @@
       "modalidad": "independiente",
       "radicacion": "2026-09-11T20:22:00-05:00",
       "estado": "admitida",
-      "nota": "Representante de segundo semestre de Jurisprudencia",
+      "nota": "Representante de tercer semestre de Jurisprudencia",
       "actuacion": "Aceptada provisionalmente el 18 de septiembre de 2026 (artículo 97)."
     },
     {
@@ -89,11 +89,12 @@
     },
     {
       "consejo": "CEM",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Jorge Luis Rivera Argote",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T20:45:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Representante de cuarto semestre"
+      "estado": "admitida",
+      "nota": "Representante de cuarto semestre",
+      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CEM",
@@ -101,15 +102,16 @@
       "modalidad": "lista",
       "radicacion": "2026-09-11T22:22:00-05:00",
       "integrantes": 24,
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CEM",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Santiago Álvarez Echeverri",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T22:41:00-05:00",
-      "estado": "en_verificacion",
-      "actuacion": "El correo de radicación no precisó la modalidad del artículo 49. El CERE la registró como independiente y se lo comunicó al aspirante el 11 de septiembre de 2026."
+      "estado": "admitida",
+      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97). El correo de radicación no precisó la modalidad del artículo 49; el CERE la registró como independiente y se lo comunicó al aspirante el 11 de septiembre de 2026."
     },
     {
       "consejo": "CER",
