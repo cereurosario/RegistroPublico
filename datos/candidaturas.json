@@ -1,6 +1,6 @@
 {
   "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-09-19T21:16:00-05:00",
+  "actualizado": "2026-09-21T19:29:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -38,8 +38,8 @@
       "radicacion": "2026-09-11T20:26:00-05:00",
       "integrantes": 8,
       "estado": "admitida",
-      "nota": "Integrantes admitidos: Andrés Felipe Martínez González (Presidente), Juan David García Florez (Vicepresidente), Paula Valentina Mariño Villanueva, Santiago Molina López, Mariana Martínez Ortiz, Mayra Alejandra Campos Moreno y Valentina Roldan Silva.",
-      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97) con siete de sus ocho integrantes; la octava candidatura está pendiente de decisión. Radicación corregida: el envío de las 8:26 p. m. reemplazó al de las 11:03 a. m. del mismo día."
+      "nota": "Integrantes: Andrés Felipe Martínez González (Presidente), Juan David García Florez (Vicepresidente), Paula Valentina Mariño Villanueva, Santiago Molina López, Mariana Martínez Ortiz, Mayra Alejandra Campos Moreno, Valentina Roldan Silva y Angie Sofía Mesa Perdomo.",
+      "actuacion": "Admitida el 18 de septiembre de 2026 con siete integrantes y completada el 19 de septiembre, cuando se admitió la octava candidatura (artículo 97). Radicación corregida: el envío de las 8:26 p. m. reemplazó al de las 11:03 a. m. del mismo día."
     },
     {
       "consejo": "CEJ",
@@ -57,7 +57,7 @@
       "radicacion": "2026-09-11T13:42:00-05:00",
       "estado": "admitida",
       "nota": "Representante de tercer semestre de Jurisprudencia",
-      "actuacion": "Aceptada provisionalmente el 18 de septiembre de 2026 (artículo 97)."
+      "actuacion": "Aceptada provisionalmente el 18 de septiembre de 2026 y admitida en firme el 19 de septiembre (artículo 97)."
     },
     {
       "consejo": "CEJ",
@@ -120,8 +120,8 @@
       "radicacion": "2026-09-11T18:57:00-05:00",
       "integrantes": 10,
       "estado": "admitida",
-      "nota": "Integrantes admitidos: Tatiana Andrea Camargo Rodríguez (Presidente), Santiago Carrillo Martínez (Vicepresidente), Juan Daniel Torres Torres, Sharith Valentina Abaunza Quiñones, Juana Daniela Sandoval Camargo, Juan Esteban Rodríguez Reyes, Luz Daniela Reyes Suarez, Angie Marcela Santacruz Narvaez y Nicole Sofia Castellanos Sotelo.",
-      "actuacion": "Admitida mediante decisión motivada notificada el 18 de septiembre de 2026 (artículo 97) con nueve de sus diez integrantes; la décima candidatura está pendiente de decisión."
+      "nota": "Integrantes: Tatiana Andrea Camargo Rodríguez (Presidente), Santiago Carrillo Martínez (Vicepresidente), Juan Daniel Torres Torres, Sharith Valentina Abaunza Quiñones, Juana Daniela Sandoval Camargo, Juan Esteban Rodríguez Reyes, Luz Daniela Reyes Suarez, Angie Marcela Santacruz Narvaez, Nicole Sofia Castellanos Sotelo y Sofía Quintero Buriticá.",
+      "actuacion": "Admitida el 18 de septiembre de 2026 con nueve integrantes y completada el 19 de septiembre, cuando se admitió la décima candidatura (artículo 97)."
     },
     {
       "consejo": "CERI",
@@ -129,8 +129,8 @@
       "modalidad": "lista",
       "radicacion": "2026-09-11T20:24:00-05:00",
       "integrantes": 10,
-      "estado": "en_verificacion",
-      "actuacion": "Requerimiento de subsanación notificado el 16 de septiembre de 2026 y atendido el 17 de septiembre. En verificación."
+      "estado": "admitida",
+      "actuacion": "Requerimiento de subsanación notificado el 16 de septiembre de 2026 y atendido el 17 de septiembre. Admitida mediante decisión notificada el 21 de septiembre de 2026 (artículo 97)."
     }
   ]
 }
