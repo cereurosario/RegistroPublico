@@ -1,7 +1,7 @@
 {
   "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria y Extemporánea",
   "etapa_vigente": "extemporanea",
-  "actualizado": "2026-11-04T10:10:00-05:00",
+  "actualizado": "2026-11-04T10:19:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -221,6 +221,23 @@
       "modalidad": "independiente",
       "radicacion": "2026-11-03T23:52:00-05:00",
       "estado": "en_verificacion"
+    },
+    {
+      "consejo": "CEC",
+      "etapa": "extemporanea",
+      "denominacion": "Candidatura por lista",
+      "modalidad": "lista",
+      "radicacion": "2026-11-04T00:00:00-05:00",
+      "estado": "en_verificacion"
+    },
+    {
+      "consejo": "CERI",
+      "etapa": "extemporanea",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-11-04T00:03:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Representante de tercer semestre"
     }
   ]
 }
