@@ -1,12 +1,12 @@
 {
   "_comentario": "Archivo de ejemplo. NO se publica: el sitio solo lee candidaturas.json. Sirve para ver cómo se escribe cada caso.",
-
   "proceso": "Etapa Electoral Ordinaria 2026-2",
+  "etapa_vigente": "ordinaria",
   "actualizado": "2026-09-04T18:00:00-05:00",
-
   "candidaturas": [
     {
       "consejo": "CEJ",
+      "etapa": "ordinaria",
       "denominacion": "Lista Ejemplo",
       "modalidad": "lista",
       "radicacion": "2026-09-01T14:32:00-05:00",
@@ -15,6 +15,7 @@
     },
     {
       "consejo": "CEM",
+      "etapa": "ordinaria",
       "denominacion": "Otra Lista",
       "modalidad": "lista",
       "radicacion": "2026-09-02T09:10:00-05:00",
@@ -24,6 +25,7 @@
     },
     {
       "consejo": "CEP",
+      "etapa": "ordinaria",
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-09-03T16:45:00-05:00",
@@ -32,6 +34,7 @@
     },
     {
       "consejo": "CECN",
+      "etapa": "ordinaria",
       "denominacion": "Lista Tercera",
       "modalidad": "lista",
       "radicacion": "2026-09-03T22:05:00-05:00",

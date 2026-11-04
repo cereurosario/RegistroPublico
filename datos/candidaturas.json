@@ -1,9 +1,11 @@
 {
   "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria y Extemporánea",
-  "actualizado": "2026-11-04T10:06:00-05:00",
+  "etapa_vigente": "extemporanea",
+  "actualizado": "2026-11-04T10:10:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
+      "etapa": "ordinaria",
       "denominacion": "Lista Verde Eden",
       "modalidad": "lista",
       "radicacion": "2026-09-11T08:29:00-05:00",
@@ -14,6 +16,7 @@
     },
     {
       "consejo": "CEEN",
+      "etapa": "ordinaria",
       "denominacion": "Samuel Esteban Gaona Canaria",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T08:00:00-05:00",
@@ -23,6 +26,7 @@
     },
     {
       "consejo": "CEFE",
+      "etapa": "ordinaria",
       "denominacion": "Lista Verde",
       "modalidad": "lista",
       "radicacion": "2026-09-09T22:56:00-05:00",
@@ -33,6 +37,7 @@
     },
     {
       "consejo": "CEIB",
+      "etapa": "ordinaria",
       "denominacion": "Lista Azul",
       "modalidad": "lista",
       "radicacion": "2026-09-11T20:26:00-05:00",
@@ -43,6 +48,7 @@
     },
     {
       "consejo": "CEJ",
+      "etapa": "ordinaria",
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-09-10T01:34:00-05:00",
@@ -52,6 +58,7 @@
     },
     {
       "consejo": "CEJ",
+      "etapa": "ordinaria",
       "denominacion": "José David Rivero Arregoces",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T13:42:00-05:00",
@@ -61,6 +68,7 @@
     },
     {
       "consejo": "CEJ",
+      "etapa": "ordinaria",
       "denominacion": "Luis Enrique Solano Molano",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T14:43:00-05:00",
@@ -70,6 +78,7 @@
     },
     {
       "consejo": "CEJ",
+      "etapa": "ordinaria",
       "denominacion": "Giselle Mariana Céspedes Pulido",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T20:22:00-05:00",
@@ -79,6 +88,7 @@
     },
     {
       "consejo": "CEJ",
+      "etapa": "ordinaria",
       "denominacion": "Lista Azul",
       "modalidad": "lista",
       "radicacion": "2026-09-11T23:40:00-05:00",
@@ -89,6 +99,7 @@
     },
     {
       "consejo": "CEM",
+      "etapa": "ordinaria",
       "denominacion": "Jorge Luis Rivera Argote",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T20:45:00-05:00",
@@ -98,6 +109,7 @@
     },
     {
       "consejo": "CEM",
+      "etapa": "ordinaria",
       "denominacion": "Lista Gris Azulado",
       "modalidad": "lista",
       "radicacion": "2026-09-11T22:22:00-05:00",
@@ -107,6 +119,7 @@
     },
     {
       "consejo": "CEM",
+      "etapa": "ordinaria",
       "denominacion": "Santiago Álvarez Echeverri",
       "modalidad": "independiente",
       "radicacion": "2026-09-11T22:41:00-05:00",
@@ -115,6 +128,7 @@
     },
     {
       "consejo": "CER",
+      "etapa": "ordinaria",
       "denominacion": "Lista Azul Rehabilitación",
       "modalidad": "lista",
       "radicacion": "2026-09-11T18:57:00-05:00",
@@ -125,6 +139,7 @@
     },
     {
       "consejo": "CERI",
+      "etapa": "ordinaria",
       "denominacion": "Lista Naranja",
       "modalidad": "lista",
       "radicacion": "2026-09-11T20:24:00-05:00",
@@ -134,76 +149,78 @@
     },
     {
       "consejo": "CEIB",
+      "etapa": "extemporanea",
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-10-21T19:07:00-05:00",
       "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea · Representante de cuarto a sexto semestre"
+      "nota": "Representante de cuarto a sexto semestre"
     },
     {
       "consejo": "CEICT",
+      "etapa": "extemporanea",
       "denominacion": "Lista Esmeralda",
       "modalidad": "lista",
       "radicacion": "2026-10-24T02:34:00-05:00",
       "integrantes": 12,
-      "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea"
+      "estado": "en_verificacion"
     },
     {
       "consejo": "CEA",
+      "etapa": "extemporanea",
       "denominacion": "Lista Azul",
       "modalidad": "lista",
       "radicacion": "2026-10-31T15:13:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea"
+      "estado": "en_verificacion"
     },
     {
       "consejo": "CEFE",
+      "etapa": "extemporanea",
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-11-03T15:41:00-05:00",
       "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea · Representante de tercer semestre"
+      "nota": "Representante de tercer semestre"
     },
     {
       "consejo": "CEP",
+      "etapa": "extemporanea",
       "denominacion": "Lista Violeta",
       "modalidad": "lista",
       "radicacion": "2026-11-03T16:04:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea"
+      "estado": "en_verificacion"
     },
     {
       "consejo": "CECH",
+      "etapa": "extemporanea",
       "denominacion": "Lista Turquesa",
       "modalidad": "lista",
       "radicacion": "2026-11-03T21:15:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea"
+      "estado": "en_verificacion"
     },
     {
       "consejo": "CECN",
+      "etapa": "extemporanea",
       "denominacion": "Lista Verde Esmeralda",
       "modalidad": "lista",
       "radicacion": "2026-11-03T22:40:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea"
+      "estado": "en_verificacion"
     },
     {
       "consejo": "CPGDU",
+      "etapa": "extemporanea",
       "denominacion": "Lista Violeta",
       "modalidad": "lista",
       "radicacion": "2026-11-03T23:12:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea"
+      "estado": "en_verificacion"
     },
     {
       "consejo": "CPGDU",
+      "etapa": "extemporanea",
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-11-03T23:52:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Etapa Extemporánea"
+      "estado": "en_verificacion"
     }
   ]
 }

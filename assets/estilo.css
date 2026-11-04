@@ -166,6 +166,9 @@ thead th {
 tbody tr:last-child td { border-bottom: none; }
 
 thead th:nth-child(5) { text-align: right; }
+#f-consejo { max-width: 300px; }
+td.modalidad { white-space: nowrap; }
+td.modalidad .val { overflow-wrap: normal; }
 
 .val { min-width: 0; overflow-wrap: anywhere; }
 
@@ -262,6 +265,7 @@ a { color: var(--rojo); }
   /* 16px evita que Safari en iOS haga zoom al tocar el desplegable,
      y el padding sube el área táctil por encima de 44 px. */
   .filtros select { min-width: 0; width: 100%; font-size: 16px; padding: 12px 12px; }
+  #f-consejo { max-width: none; }
 
   table, tbody, tr, td { display: block; width: 100%; }
   thead { display: none; }
