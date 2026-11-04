@@ -1,6 +1,6 @@
 {
-  "proceso": "Etapa Electoral Ordinaria 2026-2",
-  "actualizado": "2026-10-17T16:39:00-05:00",
+  "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria y Extemporánea",
+  "actualizado": "2026-11-04T15:01:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -131,6 +131,79 @@
       "integrantes": 10,
       "estado": "admitida",
       "actuacion": "Requerimiento de subsanación notificado el 16 de septiembre de 2026 y atendido el 17 de septiembre. Admitida mediante decisión notificada el 21 de septiembre de 2026 (artículo 97)."
+    },
+    {
+      "consejo": "CEIB",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-10-21T19:07:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea · Representante de cuarto a sexto semestre"
+    },
+    {
+      "consejo": "CEICT",
+      "denominacion": "Lista Esmeralda",
+      "modalidad": "lista",
+      "radicacion": "2026-10-24T02:34:00-05:00",
+      "integrantes": 12,
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea"
+    },
+    {
+      "consejo": "CEA",
+      "denominacion": "Lista Azul",
+      "modalidad": "lista",
+      "radicacion": "2026-10-31T15:13:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea"
+    },
+    {
+      "consejo": "CEFE",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-11-03T15:41:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea · Representante de tercer semestre"
+    },
+    {
+      "consejo": "CEP",
+      "denominacion": "Lista Violeta",
+      "modalidad": "lista",
+      "radicacion": "2026-11-03T16:04:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea"
+    },
+    {
+      "consejo": "CECH",
+      "denominacion": "Lista Turquesa",
+      "modalidad": "lista",
+      "radicacion": "2026-11-03T21:15:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea"
+    },
+    {
+      "consejo": "CECN",
+      "denominacion": "Lista Verde Esmeralda",
+      "modalidad": "lista",
+      "radicacion": "2026-11-03T22:40:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea"
+    },
+    {
+      "consejo": "CPGDU",
+      "denominacion": "Lista Violeta",
+      "modalidad": "lista",
+      "radicacion": "2026-11-03T23:12:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea"
+    },
+    {
+      "consejo": "CPGDU",
+      "denominacion": "Candidatura independiente",
+      "modalidad": "independiente",
+      "radicacion": "2026-11-03T23:52:00-05:00",
+      "estado": "en_verificacion",
+      "nota": "Etapa Extemporánea"
     }
   ]
 }
