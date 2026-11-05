@@ -1,7 +1,7 @@
 {
   "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria y Extemporánea",
   "etapa_vigente": "extemporanea",
-  "actualizado": "2026-11-04T10:19:00-05:00",
+  "actualizado": "2026-11-05T18:52:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -163,7 +163,8 @@
       "modalidad": "lista",
       "radicacion": "2026-10-24T02:34:00-05:00",
       "integrantes": 12,
-      "estado": "en_verificacion"
+      "estado": "en_subsanacion",
+      "actuacion": "Requerimiento de subsanación notificado el 5 de noviembre de 2026 (artículo 97, parágrafo 1)."
     },
     {
       "consejo": "CEA",
@@ -179,7 +180,8 @@
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-11-03T15:41:00-05:00",
-      "estado": "en_verificacion",
+      "estado": "en_subsanacion",
+      "actuacion": "Requerimiento de subsanación notificado el 4 de noviembre de 2026 (artículo 97, parágrafo 1).",
       "nota": "Representante de tercer semestre"
     },
     {
@@ -212,7 +214,8 @@
       "denominacion": "Lista Violeta",
       "modalidad": "lista",
       "radicacion": "2026-11-03T23:12:00-05:00",
-      "estado": "en_verificacion"
+      "estado": "en_subsanacion",
+      "actuacion": "Requerimiento de subsanación notificado el 4 de noviembre de 2026 (artículo 97, parágrafo 1)."
     },
     {
       "consejo": "CPGDU",
@@ -220,7 +223,8 @@
       "denominacion": "Candidatura independiente",
       "modalidad": "independiente",
       "radicacion": "2026-11-03T23:52:00-05:00",
-      "estado": "en_verificacion"
+      "estado": "en_subsanacion",
+      "actuacion": "Requerimiento de subsanación notificado el 4 de noviembre de 2026 (artículo 97, parágrafo 1)."
     },
     {
       "consejo": "CEC",
