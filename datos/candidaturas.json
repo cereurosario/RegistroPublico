@@ -1,7 +1,7 @@
 {
   "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria y Extemporánea",
   "etapa_vigente": "extemporanea",
-  "actualizado": "2026-11-07T20:52:00-05:00",
+  "actualizado": "2026-11-07T21:11:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -217,7 +217,8 @@
       "denominacion": "Lista Verde Esmeralda",
       "modalidad": "lista",
       "radicacion": "2026-11-03T22:40:00-05:00",
-      "estado": "en_verificacion"
+      "estado": "rechazada",
+      "actuacion": "Rechazada mediante decisión motivada notificada el 7 de noviembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CPGDU",
