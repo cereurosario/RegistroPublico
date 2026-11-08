@@ -1,7 +1,7 @@
 {
   "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria y Extemporánea",
   "etapa_vigente": "extemporanea",
-  "actualizado": "2026-11-06T20:33:00-05:00",
+  "actualizado": "2026-11-07T19:55:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -150,11 +150,12 @@
     {
       "consejo": "CEIB",
       "etapa": "extemporanea",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Juliana Garzón Gómez",
       "modalidad": "independiente",
       "radicacion": "2026-10-21T19:07:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Representante de cuarto a sexto semestre"
+      "estado": "admitida",
+      "nota": "Representante de cuarto a sexto semestre",
+      "actuacion": "Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CEICT",
@@ -163,8 +164,9 @@
       "modalidad": "lista",
       "radicacion": "2026-10-24T02:34:00-05:00",
       "integrantes": 12,
-      "estado": "en_subsanacion",
-      "actuacion": "Requerimiento de subsanación notificado el 5 de noviembre de 2026 (artículo 97, parágrafo 1)."
+      "estado": "admitida",
+      "actuacion": "Requerimiento de subsanación notificado el 5 de noviembre de 2026 y atendido el 6 de noviembre. Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97).",
+      "nota": "Integrantes: David Felipe Sierra Pardo (Presidente), Thomas Daniel Ayala Casallas (Vicepresidente), Emmanuel Rodríguez Valderrama, Arturo Molina Correa, Verónica Betancourt Castellanos, María José Arias Castellanos, Jacob Antonio Nariño Rodríguez, Laura Sierra Estrada, Valeria Arce Montañez, Andres Felipe Arias Sarmiento, Luz Marina Cortés Rico y María Simona Castillo García."
     },
     {
       "consejo": "CEA",
@@ -172,16 +174,19 @@
       "denominacion": "Lista Azul",
       "modalidad": "lista",
       "radicacion": "2026-10-31T15:13:00-05:00",
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "integrantes": 11,
+      "nota": "Integrantes: Andrés Felipe Acosta Avila (Presidente), Antonia Jiménez Castillo (Vicepresidente), Juliana Correal Vega, Martin Andreas Boy León, Juan Pablo Paez Franco, Mariana Arevalo Patalagua, Karol Daniela Goyeneche Ibañez, Isabel Sofía Nieto Sanguino, Sofia Valentina Estupiñan Garcia, Manuela Escandón Moreno y Jacobo Quijano Murgueitio.",
+      "actuacion": "Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CEFE",
       "etapa": "extemporanea",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Gabriel Jose D'Luyz Angel",
       "modalidad": "independiente",
       "radicacion": "2026-11-03T15:41:00-05:00",
-      "estado": "en_verificacion",
-      "actuacion": "Requerimiento de subsanación notificado el 4 de noviembre de 2026 y atendido el 5 de noviembre. En verificación.",
+      "estado": "admitida",
+      "actuacion": "Requerimiento de subsanación notificado el 4 de noviembre de 2026 y atendido el 5 de noviembre. Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97).",
       "nota": "Representante de tercer semestre"
     },
     {
@@ -190,7 +195,10 @@
       "denominacion": "Lista Violeta",
       "modalidad": "lista",
       "radicacion": "2026-11-03T16:04:00-05:00",
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "integrantes": 10,
+      "nota": "Integrantes: Nicolás Andrés Guerra Rodríguez (Presidente), María Paz Alonso Arias (Vicepresidente), Danna Sofía Rodríguez Saavedra, Simón Thomas Fernández Medina, Gabriela Solano Briceño, Luna Sofía Porras Hernández, Luisa Fernanda Torres Rodríguez, Juliana Bances Martínez, Laura Sofía Mesa Pinzón y Sofía Gómez Osorio.",
+      "actuacion": "Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CECH",
@@ -220,11 +228,12 @@
     {
       "consejo": "CPGDU",
       "etapa": "extemporanea",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "Daniel Armando Hernández Sánchez",
       "modalidad": "independiente",
       "radicacion": "2026-11-03T23:52:00-05:00",
-      "estado": "en_verificacion",
-      "actuacion": "Requerimiento de subsanación notificado el 4 de noviembre de 2026 y atendido el 5 de noviembre. En verificación."
+      "estado": "admitida",
+      "actuacion": "Requerimiento de subsanación notificado el 4 de noviembre de 2026 y atendido el 5 de noviembre. Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97).",
+      "nota": "Representante de Ciencia Política y Gobierno, de cuarto semestre en adelante"
     },
     {
       "consejo": "CEC",
@@ -232,16 +241,20 @@
       "denominacion": "Lista Morada",
       "modalidad": "lista",
       "radicacion": "2026-11-04T00:00:00-05:00",
-      "estado": "en_verificacion"
+      "estado": "admitida",
+      "integrantes": 7,
+      "nota": "Integrantes: Dayana Andrea Rodriguez Umbarila (Presidente), Mariana Rodriguez Escobar (Vicepresidente), Alex Samuel Botero Garcia, Claudia Valentina Melo Romero, Sara María Pardo Serrano, Annie Valentina Grimaldos Candanoza y Estiven Rocha España.",
+      "actuacion": "Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CERI",
       "etapa": "extemporanea",
-      "denominacion": "Candidatura independiente",
+      "denominacion": "María Alejandra Parra Flórez",
       "modalidad": "independiente",
       "radicacion": "2026-11-04T00:03:00-05:00",
-      "estado": "en_verificacion",
-      "nota": "Representante de tercer semestre"
+      "estado": "admitida",
+      "nota": "Representante de tercer semestre",
+      "actuacion": "Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97)."
     }
   ]
 }
