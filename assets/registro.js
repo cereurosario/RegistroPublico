@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  // Los catorce Consejos del artículo 50 del Código Electoral.
+  // Los catorce Consejos del artículo 50 del Código Electoral, más el CSE (Etapa Especial).
   var CONSEJOS = {
     CEA: 'Administración',
     CEC: 'Creación',
@@ -20,7 +20,8 @@
     CEP: 'Psicología',
     CER: 'Rehabilitación',
     CERI: 'Relaciones Internacionales',
-    CPGDU: 'Ciencia Política y Gobierno y Gestión y Desarrollo Urbanos'
+    CPGDU: 'Ciencia Política y Gobierno y Gestión y Desarrollo Urbanos',
+    CSE: 'Consejo Superior Estudiantil'
   };
 
   // Cada estado con la norma que lo sustenta. No se inventan estados nuevos.
@@ -66,7 +67,8 @@
   // candidatura con su etapa y con "etapa_vigente" la que se muestra al abrir.
   var ETAPAS = {
     ordinaria: 'Ordinaria',
-    extemporanea: 'Extemporánea'
+    extemporanea: 'Extemporánea',
+    especial: 'Especial'
   };
 
   var COLUMNAS = ['Consejo', 'Candidatura', 'Modalidad', 'Radicación', 'Integrantes', 'Estado'];

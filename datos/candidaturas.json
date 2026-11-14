@@ -1,7 +1,7 @@
 {
-  "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria y Extemporánea",
+  "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria, Extemporánea y Especial",
   "etapa_vigente": "extemporanea",
-  "actualizado": "2026-11-10T13:51:00-05:00",
+  "actualizado": "2026-11-14T01:46:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -261,6 +261,22 @@
       "estado": "admitida",
       "nota": "Representante de tercer semestre",
       "actuacion": "Admitida mediante decisión notificada el 7 de noviembre de 2026 (artículo 97)."
+    },
+    {
+      "consejo": "CSE",
+      "etapa": "especial",
+      "denominacion": "Lista Morada",
+      "modalidad": "lista",
+      "radicacion": "2026-11-13T23:59:00-05:00",
+      "estado": "radicada"
+    },
+    {
+      "consejo": "CSE",
+      "etapa": "especial",
+      "denominacion": "Lista Prisma",
+      "modalidad": "lista",
+      "radicacion": "2026-11-13T23:59:00-05:00",
+      "estado": "radicada"
     }
   ]
 }
