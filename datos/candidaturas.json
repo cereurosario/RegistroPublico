@@ -1,7 +1,7 @@
 {
   "proceso": "Proceso Electoral 2026-2: Etapas Ordinaria, Extemporánea y Especial",
-  "etapa_vigente": "extemporanea",
-  "actualizado": "2026-11-14T01:46:00-05:00",
+  "etapa_vigente": "especial",
+  "actualizado": "2026-11-19T18:21:00-05:00",
   "candidaturas": [
     {
       "consejo": "CEEN",
@@ -268,7 +268,9 @@
       "denominacion": "Lista Morada",
       "modalidad": "lista",
       "radicacion": "2026-11-13T23:59:00-05:00",
-      "estado": "radicada"
+      "integrantes": 5,
+      "estado": "admitida",
+      "actuacion": "Requerimiento de subsanación notificado el 17 de noviembre de 2026 y atendido el 18 de noviembre. Admitida de forma condicionada mediante decisión notificada el 19 de noviembre de 2026 (artículo 97)."
     },
     {
       "consejo": "CSE",
@@ -276,7 +278,9 @@
       "denominacion": "Lista Prisma",
       "modalidad": "lista",
       "radicacion": "2026-11-13T23:59:00-05:00",
-      "estado": "radicada"
+      "integrantes": 5,
+      "estado": "admitida",
+      "actuacion": "Requerimiento de subsanación notificado el 17 de noviembre de 2026 y atendido el 18 de noviembre. Admitida de forma condicionada mediante decisión notificada el 19 de noviembre de 2026 (artículo 97)."
     }
   ]
 }
